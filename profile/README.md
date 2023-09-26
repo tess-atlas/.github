@@ -6,3 +6,4 @@
 | 📒 TOI Nbs       | [toi_notebooks](https://github.com/tess-atlas/toi_notebooks)  | 
 | 🚂 Slurm-utils   | [tess_atlas_slurm_utils](https://github.com/tess-atlas/tess_atlas_slurm_utils) | 
 | 🔄 Pipeline      | [tess_atlas_pipeline](https://github.com/tess-atlas/tess_atlas_pipeline) | 
+| 📝 Paper         | [paper](https://github.com/tess-atlas/tess_atlas_paper) | 
