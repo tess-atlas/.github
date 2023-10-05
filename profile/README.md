@@ -1,10 +1,12 @@
+|                | Repo                                                                           | Status                                                                                                                                                                                            | 
+|----------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ⚙️  Analysis   | [tess_atlas](https://github.com/tess-atlas/tess-atlas)                         | [![Coverage Status](https://coveralls.io/repos/github/tess-atlas/tess-atlas/badge.svg?branch=main)](https://coveralls.io/github/tess-atlas/tess-atlas?branch=main) [![run toi](https://github.com/tess-atlas/tess-atlas/actions/workflows/run_toi.yml/badge.svg)](https://github.com/tess-atlas/tess-atlas/actions/workflows/run_toi.yml)                               | 
+| 🌐 Website     |  [tess_atlas_webbuilder](https://github.com/tess-atlas/tess_atlas_webbuilder)  |                                                                                                                                                                                                   | 
+| 📒 TOI Nbs     | [toi_notebooks](https://github.com/tess-atlas/toi_notebooks)                   |                                                                                                                                                                                                   | 
+| 🚂 Slurm-utils | [tess_atlas_slurm_utils](https://github.com/tess-atlas/tess_atlas_slurm_utils) | [![Coverage Status](https://coveralls.io/repos/github/tess-atlas/tess_atlas_slurm_utils/badge.svg)](https://coveralls.io/github/tess-atlas/tess_atlas_slurm_utils)                                | 
+| 🔄 Pipeline    | [tess_atlas_pipeline](https://github.com/tess-atlas/tess_atlas_pipeline)       | [![Coverage Status](https://coveralls.io/repos/github/tess-atlas/tess_atlas_pipeline/badge.svg?branch=main)](https://coveralls.io/github/tess-atlas/tess_atlas_pipeline?branch=main)              | 
+| 📝 Paper       | [tess_atlas_paper](https://github.com/tess-atlas/tess_atlas_paper)             | [![Paper](https://github.com/tess-atlas/tess_atlas_paper/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/tess-atlas/tess_atlas_paper/actions/workflows/build.yml)          | 
+| 💾 ExoFOP data | [exofop_data](https://github.com/tess-atlas/exofop_data)                       | [![Update ExoFOP data](https://github.com/tess-atlas/exofop_data/actions/workflows/update_dataset.yml/badge.svg)](https://github.com/tess-atlas/exofop_data/actions/workflows/update_dataset.yml) |
 
-|                      | Repo     | 
-|----------------------|-----------|
-| ⚙️  Analysis          | [tess_atlas](https://github.com/tess-atlas/tess-atlas)     | 
-| 🌐 Website           | [tess_atlas_webbuilder](https://github.com/tess-atlas/tess_atlas_webbuilder)  | 
-| 📒 TOI Nbs           | [toi_notebooks](https://github.com/tess-atlas/toi_notebooks)  | 
-| 🚂 Slurm-utils       | [tess_atlas_slurm_utils](https://github.com/tess-atlas/tess_atlas_slurm_utils) | 
-| 🔄 Pipeline          | [tess_atlas_pipeline](https://github.com/tess-atlas/tess_atlas_pipeline) | 
-| 📝 Paper             | [tess_atlas_paper](https://github.com/tess-atlas/tess_atlas_paper) | 
-| 💾 ExoFOP data       | [exofop_data](https://github.com/tess-atlas/exofop_data)|
+
+
